@@ -17,7 +17,7 @@ chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
 member_number = "0000000000" # 회원번호
 password= "password" # 비밀번호
 arrival = "동대구" # 출발지
-departure = "수서" # 도착지
+departure = "동탄" # 도착지
 standard_date = "20240506" # 기준날짜 ex) 20221101
 standard_time = "12" # 기준 시간 ex) 00 - 22 // 2의 배수로 입력
 
